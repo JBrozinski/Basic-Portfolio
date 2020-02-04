@@ -1,3 +1,18 @@
 body {
-    background-image =;
+    width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+  }
+
+h1 {
+    color: white;
+    background-color: teal;
+}
+
+h2 {
+    color: teal;
+}
+
+header {
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
